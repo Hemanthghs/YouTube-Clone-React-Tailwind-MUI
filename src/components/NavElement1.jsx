@@ -7,7 +7,7 @@ export default function NavElement1() {
   return (
     <div>
       <Box sx={{ display: "flex", alignItems: "center" }}>
-        <div className="ml-[6px] mr-[12px] my-[10px] p-[4px] hover:cursor-pointer hover:bg-[#222222] rounded-full">
+        <div className="ml-[11px] mr-[12px] my-[10px] p-[4px] hover:cursor-pointer hover:bg-[#222222] rounded-full">
           <MenuOutlinedIcon />
         </div>
         <img

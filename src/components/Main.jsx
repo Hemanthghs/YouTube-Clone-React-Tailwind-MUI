@@ -5,7 +5,7 @@ import Content from "./Content";
 export default function Main() {
   return (
     <div>
-      <div>
+      <div className="flex">
         <Sidebar />
         <Content />
       </div>

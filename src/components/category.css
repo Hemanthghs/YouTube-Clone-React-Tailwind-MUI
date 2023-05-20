@@ -1,0 +1,7 @@
+.btn-group {
+    overflow: scroll;
+}
+
+.btn-group::-webkit-scrollbar {
+    display: none;
+}

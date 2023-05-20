@@ -4,7 +4,7 @@ import VideoFeed from './VideoFeed'
 
 export default function Content() {
   return (
-    <div>
+    <div className='overflow-hidden'>
         <Category />
         <VideoFeed />
     </div>
