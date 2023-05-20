@@ -2,7 +2,7 @@ import React from "react";
 import VideoCallOutlinedIcon from "@mui/icons-material/VideoCallOutlined";
 import NotificationsNoneOutlinedIcon from "@mui/icons-material/NotificationsNoneOutlined";
 import { Avatar } from "@mui/material";
-import { deepOrange, red } from "@mui/material/colors";
+import { pink, red } from "@mui/material/colors";
 import { Badge } from "@mui/material";
 
 export default function NavElement3() {
@@ -19,7 +19,7 @@ export default function NavElement3() {
           </Badge>
         </div>
         <div>
-          <Avatar sx={{ bgcolor: deepOrange[500] }} />
+          <Avatar sx={{ bgcolor: pink[500] }} />
         </div>
       </div>
     </div>

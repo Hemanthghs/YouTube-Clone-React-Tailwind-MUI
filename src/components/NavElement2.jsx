@@ -22,7 +22,7 @@ function SearchBar() {
           <input
             type="text"
             placeholder="Search"
-            className="w-[100px] md:w-[150px] lg:w-[400px] xl:w-[552px] bg-[#121212] pl-[2px] my-[2px] focus:outline-none placeholder-[#7a7a7a]"
+            className="w-[100px] bg-[#121212] pl-[2px] my-[2px] focus:outline-none  placeholder-[#7a7a7a]  tablet:w-[150px] lg:w-[552px]"
           />
           <div className="bg-[#222222] px-3 rounded-r-full border-l-[1px]  border-[#2a2a2a]">
             <IconButton>

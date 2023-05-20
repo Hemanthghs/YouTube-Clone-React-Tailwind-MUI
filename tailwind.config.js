@@ -5,11 +5,11 @@ module.exports = {
   ],
   important:"#root",
   theme: {
-    extend: {
-      colors: {
-        'search-color': '#2a2a2a',
-      }
-    },
+    screens: {
+      'tablet': '780px',
+      'lg': '1100px'
+
+    }
   },
   plugins: [],
 }

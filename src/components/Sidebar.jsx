@@ -1,13 +1,14 @@
 import React from "react";
 import { Box } from "@mui/system";
-import HomeIcon from "@mui/icons-material/Home";
 import SubscriptionsOutlinedIcon from "@mui/icons-material/SubscriptionsOutlined";
 import VideoLibraryOutlinedIcon from "@mui/icons-material/VideoLibraryOutlined";
 import ThumbUpOutlinedIcon from "@mui/icons-material/ThumbUpOutlined";
+import HomeOutlinedIcon from '@mui/icons-material/HomeOutlined';
+import '../App.css';
 
 export default function Sidebar() {
   return (
-    <div className="w-[70px] h-[91vh]">
+    <div className="hidden tablet:block w-[70px] h-[91vh]">
       <Box
         sx={{ display: "flex", flexDirection: "column", alignItems: "center" }}
       >
@@ -21,7 +22,7 @@ export default function Sidebar() {
           }}
         >
           <Box>
-            <HomeIcon sx={{ fontSize: "24px" }} />
+            <HomeOutlinedIcon sx={{ fontSize: "24px" }} />
           </Box>
           <Box sx={{ fontSize: "10px" }}>Home</Box>
         </Box>
