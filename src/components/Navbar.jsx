@@ -7,10 +7,7 @@ export default function Navbar() {
   return (
     <div>
       <div
-        className="
-      flex
-      justify-between
-      "
+        className=" flex justify-between px-[8px]"
       >
         <NavElement1 />
         <NavElement2 />
