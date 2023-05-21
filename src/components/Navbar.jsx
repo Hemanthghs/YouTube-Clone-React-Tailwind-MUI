@@ -6,7 +6,7 @@ import NavElement3 from "./NavElement3";
 export default function Navbar() {
   return (
     <div>
-      <div className=" flex justify-between px-[8px]">
+      <div className="flex justify-between px-[8px]">
         <NavElement1 />
         <NavElement2 />
         <NavElement3 />

@@ -4,7 +4,7 @@ export default function VideoCard({data}) {
   return (
       <div className='w-[338px] hover:cursor-pointer'>
         <div className='relative w-[338px] h-[190px]'>
-          <img className='w-[338px] h-[190px] rounded-[12px]' src={data.thumbnail} alt="" />
+          <img className='w-[338px] h-[190px] tablet:rounded-[12px]' src={data.thumbnail} alt="" />
           <span className='bg-[#000000df] px-[3px] absolute bottom-[5px] font-medium right-[5px] text-[12px]  rounded-[6px]'>{data.duration}</span>
         </div>
         <div className='mt-3 flex w-[337px]'>

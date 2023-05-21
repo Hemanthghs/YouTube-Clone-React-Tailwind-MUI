@@ -18,7 +18,7 @@ function SearchBar() {
   return (
     <div>
       <div className="flex items-center">
-        <div className="bg-[#121212] mx-2 my-[8px] flex align-middle pl-[12px] border-[1px] border-[#2a2a2a] rounded-full">
+        <div className="hidden tablet:flex bg-[#121212] mx-2 my-[8px] align-middle pl-[12px] border-[1px] border-[#2a2a2a] rounded-full">
           <input
             type="text"
             placeholder="Search"
@@ -30,8 +30,8 @@ function SearchBar() {
             </IconButton>
           </div>
         </div>
-        <div className="p-2 mx-2 bg-[#181818] rounded-full hover:bg-[#222222] cursor-pointer">
-          <MicOutlinedIcon />
+        <div className="p-2 my-[8px] mx-2 bg-[#181818] rounded-full hover:bg-[#222222] cursor-pointer hidden tablet:block">
+          <MicOutlinedIcon className="" />
         </div>
       </div>
     </div>

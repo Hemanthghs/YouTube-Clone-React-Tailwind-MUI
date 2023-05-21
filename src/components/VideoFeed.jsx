@@ -6,7 +6,7 @@ import { data } from "./Data";
 
 export default function VideoFeed() {
   return (
-    <div className="flex flex-wrap m-4 mt-8 items-center">
+    <div className="flex flex-wrap mt-8 items-center">
       <Grid
         container
         spacing={2}
