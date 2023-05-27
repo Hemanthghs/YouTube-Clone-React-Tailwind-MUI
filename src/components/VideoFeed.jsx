@@ -14,8 +14,7 @@ export default function VideoFeed() {
       >
         {data.map((item) => {
           return (
-            <Grid item>
-            <VideoCard data={item} />
+            <Grid item className="tablet:mb-6">
               <VideoCard data={item} />
             </Grid>
           );
