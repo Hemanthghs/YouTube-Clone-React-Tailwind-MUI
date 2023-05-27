@@ -29,7 +29,7 @@ export default function Category() {
     "Elections",
   ];
   return (
-    <div>
+    <div className="fixed top-16 z-30 bg-[#0f0f0f] pb-3 pt-1 w-screen">
       <Box className="btn-group" sx={{ display: "flex" }}>
         {categories.map((item) => {
           return (

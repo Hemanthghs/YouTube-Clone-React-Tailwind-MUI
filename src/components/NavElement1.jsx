@@ -8,7 +8,7 @@ export default function NavElement1() {
     <div>
       <Box sx={{ display: "flex", alignItems: "center" }}>
         <div className="hidden tablet:block ml-[11px] mr-[12px] my-[10px] p-[4px] hover:cursor-pointer hover:bg-[#222222] rounded-full">
-          <MenuOutlinedIcon />
+          <MenuOutlinedIcon color="white" />
         </div>
         <img
           className="my-[20px] w-[91px] h-[21px] mx-[12px] tablet:my-[10px] hover:cursor-pointer"

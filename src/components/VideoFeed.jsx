@@ -6,7 +6,7 @@ import { data } from "./Data";
 
 export default function VideoFeed() {
   return (
-    <div className="flex flex-wrap mt-8 items-center">
+    <div className="flex flex-wrap mt-32 items-center">
       <Grid
         container
         spacing={2}
@@ -15,6 +15,7 @@ export default function VideoFeed() {
         {data.map((item) => {
           return (
             <Grid item>
+            <VideoCard data={item} />
               <VideoCard data={item} />
             </Grid>
           );
