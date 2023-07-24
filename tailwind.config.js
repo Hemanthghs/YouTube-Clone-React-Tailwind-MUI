@@ -3,8 +3,13 @@ module.exports = {
   content: [
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
+  important:"#root",
   theme: {
-    extend: {},
+    screens: {
+      'tablet': '780px',
+      'lg': '1100px'
+
+    }
   },
   plugins: [],
 }

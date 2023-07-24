@@ -1,0 +1,3 @@
+.video__feed::-webkit-scrollbar {
+    display: none !important;
+}
