@@ -1,5 +1,7 @@
 # YouTube Clone
 
+#### Demo link: <a href="https://yt-youtube-clone.netlify.app/">https://yt-youtube-clone.netlify.app/</a>
+
 ### Tech Stack:
 - React
 - Tailwind CSS
@@ -15,4 +17,10 @@ npm install
 
 npm start
 ```
+<hr>
 
+
+
+My Github Profile: https://github.com/Hemanthghs
+
+My LinkedIn Profile: https://www.linkedin.com/in/hemanthsai-g/
