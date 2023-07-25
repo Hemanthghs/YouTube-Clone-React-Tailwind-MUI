@@ -9,15 +9,6 @@ export const data = [
         "duration": "2:39",
     },
     {
-        "thumbnail": "https://i.ytimg.com/vi/0n7AWxYCj9I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUChiH24-GK6MgafIoIeMz8AMZ1A",
-        "channelLogo": "https://yt3.ggpht.com/ZnBmMi35bqmVJODSRzSwo3_j3WVaBd3DhRJHrKTS4yMX4jds1gXOsH0JpjBtr4HzfNClZcnjWw=s68-c-k-c0x00ffffff-no-rj",
-        "title": "Na Roja Nuvve | Kushi | Vijay Devarakonda | Samantha Ruth Prabhhu ...",
-        "channel": "Saregama Telugu",
-        "views": "15M",
-        "date": "11 days",
-        "duration": "4:14",
-    },
-    {
         "thumbnail": "https://i.ytimg.com/vi/pCWZ6xCm450/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDp9163RS6hsWPx9_-4Cq9a0otV2g",
         "channelLogo": "https://yt3.ggpht.com/59YBnOdoC_beFI-UTkrNRsa-uQQyvLgo-XofWZDUscP8qN60y0HYdMwZExRvDJKEJUCyH5zR=s68-c-k-c0x00ffffff-no-rj",
         "title": "Never Give Up - Best Motivational speech video | Morning #motivation",
@@ -81,7 +72,16 @@ export const data = [
         "duration": "29:21",
     },
     {
-        "thumbnail": "https://i.ytimg.com/an_webp/M3ygFVrfR6E/mqdefault_6s.webp?du=3000&sqp=CKG2pKMG&rs=AOn4CLCY9SpIVHIi1OH4az6o5hbscQRL0Q",
+        "thumbnail": "https://i.ytimg.com/vi/0n7AWxYCj9I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUChiH24-GK6MgafIoIeMz8AMZ1A",
+        "channelLogo": "https://yt3.ggpht.com/ZnBmMi35bqmVJODSRzSwo3_j3WVaBd3DhRJHrKTS4yMX4jds1gXOsH0JpjBtr4HzfNClZcnjWw=s68-c-k-c0x00ffffff-no-rj",
+        "title": "Na Roja Nuvve | Kushi | Vijay Devarakonda | Samantha Ruth Prabhhu ...",
+        "channel": "Saregama Telugu",
+        "views": "15M",
+        "date": "11 days",
+        "duration": "4:14",
+    },
+    {
+        "thumbnail": "https://i.ytimg.com/vi/M3ygFVrfR6E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBk70XfPGYOf3vskmd0FDo-HK3GMg",
         "channelLogo": "https://yt3.ggpht.com/fRTh6Q0FUUZ50HFjtiUw_5DeDhQy87dhpUOdLzPySHsZXipNu3lpD4R9oxyKUzXY_DDUVPZB=s68-c-k-c0x00ffffff-no-rj",
         "title": "Bumrah With The Bat! | 35 Runs In One Over Against Stuart Broad! |...",
         "channel": "England & Wales Cricket Board",
