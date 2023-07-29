@@ -14,8 +14,9 @@ export default function VideoCard({data}) {
           <div className='pl-3'>
             <div className='text-[16px] text-[#f1f1f1] font-semibold leading-[22px] text-ellipsis line-clamp-2'>{data.title}</div>
             <div className='text-[14px] mt-1 font-normal leading-5 text-[#aaaaaa]'>
-              <div>{data.channel}</div>
-              <div>
+              <div className='inline tablet:block'>{data.channel}</div>
+              <div className='inline tablet:hidden'> • </div>
+              <div className='inline tablet:block'>
                 <span>{data.views} views</span> •
                 <span> {data.date} ago</span>
               </div>
