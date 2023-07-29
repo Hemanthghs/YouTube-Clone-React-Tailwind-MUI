@@ -29,7 +29,7 @@ export default function Category() {
     "Elections",
   ];
   return (
-    <div className="fixed top-16 z-30 bg-[#0f0f0f] pb-3 pt-1 w-screen">
+    <div className="fixed top-[3.7rem] z-30 bg-[#0f0f0f] pb-3 pt-1 w-screen">
       <Box className="btn-group" sx={{ display: "flex" }}>
         {categories.map((item) => {
           return (
@@ -38,7 +38,7 @@ export default function Category() {
                 background: item === "All" ? "#ffffff" : "#272727",
                 color: item === "All" && "#000000",
               }}
-              className="hover:bg-[#414141] rounded-lg py-1 px-0"
+              className="rounded-lg py-1 px-0"
               sx={{ mx: "8px", color: "white", textTransform: "unset" }}
             >
               {item}

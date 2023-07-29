@@ -30,7 +30,7 @@ function SearchBar() {
             </IconButton>
           </div>
         </div>
-        <div className="p-2 my-[8px] mx-2 bg-[#181818] rounded-full hover:bg-[#222222] cursor-pointer hidden tablet:block">
+        <div className="p-2 my-[8px] mx-2 bg-[#222222] rounded-full hover:bg-[#383838] cursor-pointer hidden tablet:block">
           <MicOutlinedIcon color="white" />
         </div>
       </div>
