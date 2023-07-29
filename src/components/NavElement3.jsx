@@ -22,7 +22,6 @@ export default function NavElement3() {
           <Badge badgeContent={"4+"} color="error">
             <div className="fill-white hover:cursor-pointer">
               <svg
-                enable-background="new 0 0 24 24"
                 height="24"
                 viewBox="0 0 24 24"
                 width="24"

@@ -12,9 +12,9 @@ export default function VideoFeed() {
         spacing={2}
         sx={{ display: "flex", justifyContent: "center" }}
       >
-        {data.map((item) => {
+        {data.map((item, index) => {
           return (
-            <Grid item className="tablet:mb-6">
+            <Grid key={index} item className="tablet:mb-6">
               <VideoCard data={item} />
             </Grid>
           );
