@@ -1,6 +1,7 @@
 import React from "react";
-import Sidebar from "./Sidebar";
+import Sidebar, { Options } from "./Sidebar";
 import Content from "./Content";
+import { Box } from "@mui/material";
 
 export default function Main() {
   return (
@@ -9,6 +10,9 @@ export default function Main() {
         <Sidebar />
         <Content />
       </div>
+      <Box className="bg-[#0f0f0f] border-t-[1px] border-[#414141] w-full fixed bottom-0 flex items-center justify-around tablet:hidden">
+        <Options />
+      </Box>
     </div>
   );
 }
