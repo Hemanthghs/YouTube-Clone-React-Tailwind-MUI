@@ -26,6 +26,3 @@ export default function VideoCard({data}) {
       </div>
   )
 }
-
-//337.9 x 190
-//337.9 x 100
