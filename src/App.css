@@ -3,6 +3,10 @@
   font-family: 'Roboto', sans-serif;
 }
 
+body {
+  background-color: #0f0f0f;
+}
+
 ::-webkit-scrollbar {
     width: 8px;
     height: 5px;
