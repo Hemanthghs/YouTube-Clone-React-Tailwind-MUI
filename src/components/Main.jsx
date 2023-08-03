@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import Sidebar, { Options } from "./Sidebar";
 import Content from "./Content";
 import { Box } from "@mui/material";
