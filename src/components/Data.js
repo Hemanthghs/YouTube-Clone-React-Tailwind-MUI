@@ -38,7 +38,7 @@ export const data = [
     {
         "thumbnail": "https://i.ytimg.com/vi/bOCHTHkBoAs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYhmA8HAc6Ap7KpVRbWAXMVDq5Aw",
         "channelLogo": "https://yt3.ggpht.com/ytc/AGIKgqOSWK9LIZ9xGvDbBZ7gjBK1ayNCxK0jKMOq1FirfA=s68-c-k-c0x00ffffff-no-rj",
-        "title": "10 MAth Concepts for Programmers",
+        "title": "10 Math Concepts for Programmers",
         "channel": "Fireship",
         "views": "893K",
         "date": "4 weeks",
