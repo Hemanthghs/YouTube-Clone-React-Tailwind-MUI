@@ -1,6 +1,6 @@
 # YouTube Clone
 
-#### Demo link: <a href="https://yt-youtube-clone.netlify.app/">https://yt-youtube-clone.netlify.app/</a>
+#### Demo link: [https://yt-youtube-clone.netlify.app/](https://you-tube-clone-react-tailwind-mui.vercel.app/)
 
 ### Tech Stack:
 - React
